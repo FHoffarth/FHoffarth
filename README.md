@@ -32,7 +32,9 @@ explainable by construction rather than by afterthought.
 | <img src="https://raw.githubusercontent.com/FHoffarth/FHoffarth/main/assets/utility-mark-purple.svg" width="14" height="14" alt=""> | **[AwardRadar](https://github.com/FHoffarth/awardradar)** | Travel decision intelligence for cash fares, award availability and booking verification. | `Python` |
 | <img src="https://raw.githubusercontent.com/FHoffarth/FHoffarth/main/assets/utility-mark-blue.svg" width="14" height="14" alt=""> | **[EnergyRadar](https://github.com/FHoffarth/EnergyRadar)** | Local-first energy intelligence for solar production, grid flow and household consumption. | `Python` |
 | <img src="https://raw.githubusercontent.com/FHoffarth/FHoffarth/main/assets/utility-mark-coral.svg" width="14" height="14" alt=""> | **[LifeRadar](https://github.com/FHoffarth/LifeRadar)** | A calm life admin radar for deadlines, silent costs and open claims. | `TypeScript` |
-| <img src="https://raw.githubusercontent.com/FHoffarth/FHoffarth/main/assets/utility-mark-purple.svg" width="14" height="14" alt=""> | **[SheetCompare](https://github.com/FHoffarth/SheetCompare)** | Local-first CSV and TSV diff. Drop two tables, see exactly what changed. | `TypeScript` |
+| <img src="https://raw.githubusercontent.com/FHoffarth/FHoffarth/main/assets/utility-mark-purple.svg" width="14" height="14" alt=""> | **[SheetCompare](https://github.com/debother/SheetCompare)** | Local-first CSV and TSV diff. Drop two tables, see exactly what changed. | `TypeScript` |
+| <img src="https://raw.githubusercontent.com/FHoffarth/FHoffarth/main/assets/utility-mark-blue.svg" width="14" height="14" alt=""> | **[FilePass](https://github.com/FHoffarth/FilePass)** | Local-first metadata inspection and cleaning for JPEG, PNG and PDF. | `TypeScript` |
+| <img src="https://raw.githubusercontent.com/FHoffarth/FHoffarth/main/assets/utility-mark-coral.svg" width="14" height="14" alt=""> | **[florianhoffarth.com](https://github.com/FHoffarth/florianhoffarth.com)** | Personal professional site and evidence layer for CV, projects and research. | `HTML` |
 
 ## What I care about
 
